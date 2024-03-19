@@ -1,4 +1,4 @@
-@import url(STYLES/header.css);
+@import url(styles/header.css);
 :root{
 --cor-de-fundo: #9949B4;
 --cor-cabecalho: #FFFFFF;
@@ -6,4 +6,8 @@
 body{
 background-color: var(--cor-de-fundo);
 margin: 0;
+}
+
+h2{
+ color: bisque;
 }
