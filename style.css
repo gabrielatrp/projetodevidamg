@@ -10,3 +10,10 @@ background-color: var(--cor-de-fundo);
 margin: 0;
 }
 
+h2{
+    color: bisque;
+}
+
+p1{
+    color: darkorange;
+}
